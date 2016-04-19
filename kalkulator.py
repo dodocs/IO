@@ -3,3 +3,6 @@ def calc:
 
 def calc2:
 	pass
+
+def test:
+	pass
